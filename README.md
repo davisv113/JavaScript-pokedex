@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Pokedex criada com Html, Css e JavaScript
